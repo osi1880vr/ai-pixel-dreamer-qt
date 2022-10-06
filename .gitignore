@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/diffusion/models/dpt_large-midas-2f21e586.pt
+/diffusion/models/inpaint_last.ckpt
+/diffusion/models/sd-clip-vit-l14-img-embed_ema_only.ckpt
+/diffusion/models/sd-v1-4.ckpt
+/src/
+/diffusion/models/pretrained/AdaBins_nyu.pt
+/pretrained/AdaBins_nyu.pt
+/diffusion/models/custom/trinart2_step115000.ckpt
+/diffusion/models/custom/wd-v1-2-full-ema.ckpt
